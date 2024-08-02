@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/inliberauscita/open-depot/main/ui-mockups/">
+<img src="https://raw.githubusercontent.com/inliberauscita/open-depot/main/mockups/inliberauscita_logoesteso.jpg">
 
 ---
 
